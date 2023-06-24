@@ -1,0 +1,31 @@
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\bin\Debug\net6.0\Q2 WebApplication.staticwebassets.runtime.json
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\bin\Debug\net6.0\Q2 WebApplication.exe
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\bin\Debug\net6.0\Q2 WebApplication.deps.json
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\bin\Debug\net6.0\Q2 WebApplication.runtimeconfig.json
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\bin\Debug\net6.0\Q2 WebApplication.dll
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\bin\Debug\net6.0\Q2 WebApplication.pdb
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\Q2 WebApplication.csproj.AssemblyReference.cache
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\Q2 WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\Q2 WebApplication.AssemblyInfoInputs.cache
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\Q2 WebApplication.AssemblyInfo.cs
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\Q2 WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\Q2 WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\Q2 WebApplication.RazorAssemblyInfo.cache
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\Q2 WebApplication.RazorAssemblyInfo.cs
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\staticwebassets\msbuild.Q2 WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.Q2 WebApplication.props
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Q2 WebApplication.props
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Q2 WebApplication.props
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\scopedcss\bundle\Q2 WebApplication.styles.css
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\scopedcss\projectbundle\Q2 WebApplication.bundle.scp.css
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\Q2 WebApplication.dll
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\refint\Q2 WebApplication.dll
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\Q2 WebApplication.pdb
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\Q2 WebApplication.genruntimeconfig.cache
+C:\Users\ljgaj\Desktop\Resources\Q1\test\Q2 WebApplication\Q2 WebApplication\obj\Debug\net6.0\ref\Q2 WebApplication.dll
